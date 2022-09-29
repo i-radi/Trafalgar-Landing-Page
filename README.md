@@ -1,2 +1,3 @@
 # Trafalgar-Landing-Page
-Trafalgar , Responsive Web Design using Bootstrap
+
+## Responsive Web Design using Bootstrap
